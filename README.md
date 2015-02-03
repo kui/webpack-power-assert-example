@@ -6,7 +6,7 @@ A example project for testing in browser with [webpack](https://github.com/webpa
 In your terminal:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~bash
-$ git clone ...
+$ git clone git@github.com:kui/webpack-power-assert-example.git
 $ npm install
 $ npm test
 # and then access http://localhost:8080/
