@@ -1,0 +1,8 @@
+/build
+/node_modules
+npm-debug.log
+
+# emacs temp files
+*~
+.#*
+\#*#
